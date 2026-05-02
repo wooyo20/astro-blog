@@ -10,9 +10,9 @@ export default {
   // 网站作者
   Author: 'wooyo20',
   // 作者头像
-  Avatar: 'https://wooyo-picgo.oss-cn-shanghai.aliyuncs.com/20260309203344579.png',
+  Avatar: 'https://wooyo-picgo.oss-cn-shanghai.aliyuncs.com/2026/05/02/69f5e46781f05.jpg',
   // 网站座右铭
-  Motto: '冲冲冲',
+  Motto: '睡个好觉',
   // Cover 网站缩略图
   Cover: '/assets/images/banner/072c12ec85d2d3b5.webp',
   // 网站侧边栏公告 (不填写即不开启)
